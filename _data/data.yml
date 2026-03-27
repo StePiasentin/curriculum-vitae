@@ -67,23 +67,25 @@ education:
 
 experiences:
     - role: AI Team Lead
-      department: AI R&D Team
+      department: AI Team
       time: Aug. 2025 - Present
       company: DS Group SpA
       details: 
-        - text: In charge to propose tech solutions for AI projects
-        - text: Leading a small team developing both code and no-code AI solutions
-        - text: Developing B2b AI solutions to introduce AI into clients business processes
+        - text: Lead the design and delivery of applied AI solutions for internal and B2B use cases, focusing on integrating AI into real business workflows
+        - text: Manage a small team developing both code-based and no-code AI solutions, enabling adoption across non-technical users
+        - text: Build AI-powered systems including RAG pipelines, multi-agent workflows, and intelligent document processing solutions (OCR + classification + data extraction)
+        - text: Develop AI assistants and agents integrated with backend systems and Microsoft tools (Copilot Studio, Power Automate, SharePoint)
+        - text: Partner with stakeholders to identify automation opportunities and introduce AI into business processes through practical, scalable solutions
 
     - role: Software Engineer
-      department: Mobile Team | AI R&D Team
+      department: Mobile Team | AI Team
       time: Jan. 2023 - Present
       company: DS Group SpA
       details: 
-        - text: Enterprise department, developing and maintaining b2b apps
-        - text: Implementing features using custom libraries in Kotlin, Java and Dart
-        - text: Apps that help Enel technicians collect/store/manipulate data worldwide
-        - text: Developing B2b AI solutions to introduce AI into clients business processes
+        - text: Enterprise department, developed and maintained b2b apps
+        - text: Implemented features using custom libraries in Kotlin, Java and Dart
+        - text: Developed apps that help Enel technicians collect/store/manipulate data worldwide
+        - text: Developed B2b AI solutions to introduce AI into clients business processes
 
     - role: Frontend Software Engineer
       department: Frontend Team
@@ -182,7 +184,11 @@ skills:
         level: 99%
         soft: False
 
-      - name: Kotlin, Java, Dart, C, C++
+      - name: AI Automation
+        level: 98%
+        soft: False
+
+      - name: Kotlin, Java, Dart, Python
         level: 98%
         soft: True
 
@@ -194,7 +200,7 @@ skills:
         level: 97%
         soft: True
 
-      - name: REST, JSON
+      - name: REST, JSON, Docker
         level: 94%
         soft: False
 
@@ -206,16 +212,12 @@ skills:
         level: 88%
         soft: False
 
-      - name: Docker, GraphQL
+      - name: GraphQL
         level: 87%
         soft: True
       
       - name: Python, LangChain
         level: 85%
-        soft: False
-      
-      - name: AI, Neural Networks
-        level: 83%
         soft: False
 
 footer: >
